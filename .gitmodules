@@ -7,3 +7,6 @@
 [submodule "Lab-3"]
 	path = Lab-3
 	url = https://github.com/vivk-LFPC-Labs/chomsky_normal_form.git
+[submodule "Lab-4"]
+	path = Lab-4
+	url = https://github.com/vivk-LFPC-Labs/LFPC_lab_4.git
