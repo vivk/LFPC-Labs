@@ -1,3 +1,6 @@
 [submodule "Lab-1"]
 	path = Lab-1
 	url = https://github.com/vivk-LFPC-Labs/LFPC_Lab_1.git
+[submodule "Lab-2"]
+	path = Lab-2
+	url = https://github.com/vivk-LFPC-Labs/LFPC_Lab_2.git
